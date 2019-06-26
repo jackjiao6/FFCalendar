@@ -1,6 +1,6 @@
 FFCalendar
 ==========
-A study of iOS Yearly, Monthly, Weekly and Daily Calendars.
+A study of iOS Yearly, Monthly, Weekly and Daily Calendars...
 
 <img src="https://raw.githubusercontent.com/fggeraissate/FFCalendar/master/FFCalendar/FFCalendars/Util/Images/YearlyCalendar.png" alt="Yearly Calendar for iOS" width="300" height="401"/>
 <img src="https://raw.githubusercontent.com/fggeraissate/FFCalendar/master/FFCalendar/FFCalendars/Util/Images/MonthlyCalendar.png" alt="Monthly Calendar for iOS" width="300" height="401"/>
